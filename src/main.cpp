@@ -13,4 +13,9 @@ int main() {
     
     printf("\nthe dynamic-ind method:\n");
     dynamic_ind();
+
+    /*
+     *
+     *
+     */
 }
